@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "964182031542",
+    "firebase_url": "https://ewall-c405c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ewall-c405c",
+    "storage_bucket": "ewall-c405c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964182031542:android:91ee88d7429ec40aca7a17",
+        "android_client_info": {
+          "package_name": "com.example.ewall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964182031542-g4mdq4mjc0ddiaf50s6qas7korhc2ffp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2EdYq9PTZcg1LAIhOl9FOWcbBPslzDjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964182031542-g4mdq4mjc0ddiaf50s6qas7korhc2ffp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
